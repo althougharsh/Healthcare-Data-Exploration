@@ -1,13 +1,22 @@
 Healthcare Data Analysis
+
 Overview
+
 This project provides an analysis of healthcare data, focusing on key health metrics such as:
 
+
 Age
+
 Blood Pressure
+
 Sugar Level
+
 Weight
+
 The analysis includes:
+
 ✅ Generating basic statistics
+
 ✅ Identifying patients at risk
 ✅ Visualizing the distribution of key health metrics
 
