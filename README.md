@@ -6,6 +6,7 @@ This project provides an analysis of healthcare data, focusing on key health met
 
 
 Age
+
 Blood Pressure
 
 Sugar Level
@@ -17,7 +18,9 @@ The analysis includes:
 ✅ Generating basic statistics
 
 ✅ Identifying patients at risk
+
 ✅ Visualizing the distribution of key health metrics
+
 
 Features
 📌 Load Data
