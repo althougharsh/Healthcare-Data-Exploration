@@ -6,7 +6,6 @@ This project provides an analysis of healthcare data, focusing on key health met
 
 
 Age
-
 Blood Pressure
 
 Sugar Level
