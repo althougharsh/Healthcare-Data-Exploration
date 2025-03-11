@@ -72,10 +72,6 @@ pip install pandas matplotlib
 
 Usage
 
-Clone the repository
-
-
-git clone https://github.com/Healthcare-Data-Exploration/Healthcare-Data-Analysis.git
 
 cd Healthcare-Data-Analysis
 
